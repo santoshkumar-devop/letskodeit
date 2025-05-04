@@ -1,0 +1,62 @@
+05/04/2025 10:37:36 PM - _TestExecutionStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollment Failed Verification
+05/04/2025 10:37:36 PM - _TestExecutionStatus - INFO: test_courseEnrollment ### TEST SUCCESSFUL
+05/04/2025 10:38:07 PM - _TestExecutionStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollment Failed Verification
+05/04/2025 10:38:07 PM - _TestExecutionStatus - INFO: test_courseEnrollment ### TEST SUCCESSFUL
+05/04/2025 10:38:20 PM - _TestExecutionStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verified
+05/04/2025 10:38:20 PM - _TestExecutionStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login was successful
+05/04/2025 10:38:20 PM - _TestExecutionStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+Type: xpath
+05/04/2025 10:37:36 PM - NavigationPage - INFO: Clicked on element with locator: //button[@id='dropdownMenu1']//a[@class='dynamic-link'] locatorType: xpath
+05/04/2025 10:37:38 PM - NavigationPage - INFO: Element found with locator: //a[normalize-space()='ALL COURSES'] and  locatorType: xpath
+05/04/2025 10:37:41 PM - NavigationPage - INFO: Clicked on element with locator: //a[normalize-space()='ALL COURSES'] locatorType: xpath
+05/04/2025 10:38:07 PM - NavigationPage - INFO: Element found with locator: //button[@id='dropdownMenu1']//a[@class='dynamic-link'] and  locatorType: xpath
+05/04/2025 10:38:08 PM - NavigationPage - INFO: Element appeared on the web page: //button[@id='dropdownMenu1']//a[@class='dynamic-link'] locatorType: xpath
+05/04/2025 10:38:08 PM - NavigationPage - INFO: Element found with locator: //button[@id='dropdownMenu1']//a[@class='dynamic-link'] and  locatorType: xpath
+05/04/2025 10:38:08 PM - NavigationPage - INFO: Clicked on element with locator: //button[@id='dropdownMenu1']//a[@class='dynamic-link'] locatorType: xpath
+05/04/2025 10:38:20 PM - NavigationPage - INFO: Element found with locator: //button[@id='dropdownMenu1']//a[@class='dynamic-link'] and  locatorType: xpath
+05/04/2025 10:38:20 PM - NavigationPage - INFO: Element appeared on the web page: //button[@id='dropdownMenu1']//a[@class='dynamic-link'] locatorType: xpath
+05/04/2025 10:38:20 PM - NavigationPage - INFO: Element found with locator: //button[@id='dropdownMenu1']//a[@class='dynamic-link'] and  locatorType: xpath
+05/04/2025 10:38:20 PM - NavigationPage - INFO: Clicked on element with locator: //button[@id='dropdownMenu1']//a[@class='dynamic-link'] locatorType: xpath
+isterCoursesPage - INFO: Sent text to the element with locator: //input[@id='search'] locatorType: xpath
+05/04/2025 10:37:41 PM - RegisterCoursesPage - INFO: Element found with locator: //i[@class='fa fa-search'] and  locatorType: xpath
+05/04/2025 10:37:41 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //i[@class='fa fa-search'] locatorType: xpath
+05/04/2025 10:37:41 PM - RegisterCoursesPage - INFO: Element found with locator: //h4[normalize-space()='Mac Linux Command Line Basics'] and  locatorType: xpath
+05/04/2025 10:37:44 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //h4[normalize-space()='Mac Linux Command Line Basics'] locatorType: xpath
+05/04/2025 10:37:44 PM - RegisterCoursesPage - INFO: Element found with locator: //button[normalize-space()='Enroll in Course'] and  locatorType: xpath
+05/04/2025 10:37:44 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[normalize-space()='Enroll in Course'] locatorType: xpath
+05/04/2025 10:37:44 PM - RegisterCoursesPage - INFO: Switched to frame: iframe[title='S05/04/2025 10:38:08 PM - PlaywrightDriver - INFO: Element found with locator: //a[@href='/logout'] and  locatorType: xpath
+05/04/2025 10:38:08 PM - PlaywrightDriver - INFO: Clicked on element with locator: //a[@href='/logout'] locatorType: xpath
+05/04/2025 10:38:14 PM - PlaywrightDriver - INFO: Element found with locator: //a[normalize-space()='Sign In'] and  locatorType: xpath
+05/04/2025 10:38:14 PM - PlaywrightDriver - INFO: Clicked on element with locator: //a[normalize-space()='Sign In'] locatorType: xpath
+05/04/2025 10:38:14 PM - PlaywrightDriver - INFO: Element found with locator: //input[@placeholder='Email Address'] and  locatorType: xpath
+05/04/2025 10:38:15 PM - PlaywrightDriver - INFO: Cleared the field with locator: //input[@placeholder='Email Address'] locatorType: xpath
+05/04/2025 10:38:15 PM - PlaywrightDriver - INFO: Element found with locator: //input[@placeholder='Email Address'] and  locatorType: xpath
+05/04/2025 10:38:15 PM - PlaywrightDriver - INFO: Sent text to the element with locator: //input[@placeholder='Email Address'] locatorType: xpath
+05/04/2025 10:38:15 PM - PlaywrightDriver - INFO: Element found with locator: //input[@placeholder='Password'] and  locatorType: xpath
+05/04/2025 10:38:15 PM - PlaywrightDriver - INFO: Cleared the field with locator: //input[@placeholder='Password'] locatorType: xpath
+05/04/2025 10:38:15 PM - PlaywrightDriver - INFO: Element found with locator: //input[@placeholder='Password'] and  locatorType: xpath
+05/04/2025 10:38:15 PM - PlaywrightDriver - INFO: Sent text to the element with locator: //input[@placeholder='Password'] locatorType: xpath
+05/04/2025 10:38:15 PM - PlaywrightDriver - INFO: Element found with locator: //button[@id='login'] and  locatorType: xpath
+05/04/2025 10:38:15 PM - PlaywrightDriver - INFO: Clicked on element with locator: //button[@id='login'] locatorType: xpath
+05/04/2025 10:38:15 PM - PlaywrightDriver - INFO: Element found with locator: //span[@id='incorrectdetails' and contains(., 'Incorrect login details')] and  locatorType: xpath
+05/04/2025 10:38:17 PM - PlaywrightDriver - INFO: Element is visible: //span[@id='incorrectdetails' and contains(., 'Incorrect login details')] locatorType: xpath
+05/04/2025 10:38:17 PM - PlaywrightDriver - INFO: Element found with locator: //a[normalize-space()='Sign In'] and  locatorType: xpath
+05/04/2025 10:38:17 PM - PlaywrightDriver - INFO: Clicked on element with locator: //a[normalize-space()='Sign In'] locatorType: xpath
+05/04/2025 10:38:17 PM - PlaywrightDriver - INFO: Element found with locator: //input[@placeholder='Email Address'] and  locatorType: xpath
+05/04/2025 10:38:17 PM - PlaywrightDriver - INFO: Cleared the field with locator: //input[@placeholder='Email Address'] locatorType: xpath
+05/04/2025 10:38:17 PM - PlaywrightDriver - INFO: Element found with locator: //input[@placeholder='Email Address'] and  locatorType: xpath
+05/04/2025 10:38:17 PM - PlaywrightDriver - INFO: Sent text to the element with locator: //input[@placeholder='Email Address'] locatorType: xpath
+05/04/2025 10:38:17 PM - PlaywrightDriver - INFO: Element found with locator: //input[@placeholder='Password'] and  locatorType: xpath
+05/04/2025 10:38:17 PM - PlaywrightDriver - INFO: Cleared the field with locator: //input[@placeholder='Password'] locatorType: xpath
+05/04/2025 10:38:17 PM - PlaywrightDriver - INFO: Element found with locator: //input[@placeholder='Password'] and  locatorType: xpath
+05/04/2025 10:38:17 PM - PlaywrightDriver - INFO: Sent text to the element with locator: //input[@placeholder='Password'] locatorType: xpath
+05/04/2025 10:38:17 PM - PlaywrightDriver - INFO: Element found with locator: //button[@id='login'] and  locatorType: xpath
+05/04/2025 10:38:18 PM - PlaywrightDriver - INFO: Clicked on element with locator: //button[@id='login'] locatorType: xpath
+05/04/2025 10:38:18 PM - PlaywrightDriver - INFO: Page title is: Login
+05/04/2025 10:38:19 PM - PlaywrightDriver - WARNING: Retrying due to error: An error occurred while getting the page title: Page.title: Execution context was destroyed, most likely because of a navigation
+05/04/2025 10:38:20 PM - PlaywrightDriver - INFO: Page title is: My Courses
+05/04/2025 10:38:20 PM - PlaywrightDriver - INFO: Page title matched: My Courses
+05/04/2025 10:38:20 PM - PlaywrightDriver - INFO: Element found with locator: //h1[contains(text(),'My Courses')] and  locatorType: xpath
+05/04/2025 10:38:20 PM - PlaywrightDriver - INFO: Element is visible: //h1[contains(text(),'My Courses')] locatorType: xpath
+05/04/2025 10:38:20 PM - PlaywrightDriver - INFO: Element found with locator: //a[@href='/logout'] and  locatorType: xpath
+05/04/2025 10:38:21 PM - PlaywrightDriver - INFO: Clicked on element with locator: //a[@href='/logout'] locatorType: xpath
